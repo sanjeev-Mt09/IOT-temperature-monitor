@@ -24,6 +24,7 @@ Built using Wokwi simulator
   - LED turns ON
   - Buzzer turns ON
 # IoT Temperature Monitoring System
+# IoT Temperature Monitoring System
 
 This project monitors temperature using ESP32 and DHT22 sensor.
 
@@ -31,3 +32,6 @@ This project monitors temperature using ESP32 and DHT22 sensor.
 - LED alert
 - Buzzer alert
 - Real-time monitoring
+
+This project monitors temperature using ESP32 and DHT22 sensor.
+
