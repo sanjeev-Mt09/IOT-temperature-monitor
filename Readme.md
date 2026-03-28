@@ -13,8 +13,9 @@ This project is built using ESP32 and DHT22 sensor in Wokwi.
 - LED
 - Buzzer
 
-## Simulation
+## Simulation Link
 Built using Wokwi simulator
+https://wokwi.com/projects/459705120450506753
 
 ## How it works
 - Reads temperature from DHT22
