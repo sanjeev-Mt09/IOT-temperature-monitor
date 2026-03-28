@@ -23,8 +23,6 @@ Built using Wokwi simulator
 - If temperature > 30°C:
   - LED turns ON
   - Buzzer turns ON
-# IoT Temperature Monitoring System
-# IoT Temperature Monitoring System
 
 This project monitors temperature using ESP32 and DHT22 sensor.
 
